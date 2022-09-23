@@ -10,7 +10,7 @@ body {
   opacity: 0.9;
   color: seashell;
   margin: 75px 125px;
-  align-text: center;
+  text-align: center;
   width: 1300px;
   display: flex;
   flex-wrap: wrap;
